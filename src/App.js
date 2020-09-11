@@ -12,8 +12,8 @@ class App extends Component {
   render() {
     return (
       <GlobalProvider>
-        <Header />
         <div className='container'>
+          <Header />
           <Balance />
           <IncomeExpense />
           <TransactionList />
