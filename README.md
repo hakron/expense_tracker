@@ -2,6 +2,11 @@
 
 ![expense_tracker](https://user-images.githubusercontent.com/12187795/92977256-cf601200-f48c-11ea-98a3-2765d3452ed5.png)
 
+## Introduction
+
+Expense Tracker using React, React Hooks and contextAPi.
+The project track you incomes and your expense and at the end see how much money you have.
+
 ## Available Scripts
 
 In the project directory, you can run:
