@@ -4,8 +4,8 @@
 
 ## Introduction
 
-Expense Tracker using React, React Hooks and contextAPi.
-The project track you incomes and your expense and at the end see how much money you have.
+Expense Tracker using React, using hooks (useState, useContext, useReducer) and context APi.
+The project track your incomes and your expense and at the end see how much money you have.
 
 ## Available Scripts
 
